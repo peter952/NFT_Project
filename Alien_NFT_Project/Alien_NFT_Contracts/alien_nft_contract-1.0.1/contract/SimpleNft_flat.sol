@@ -2,7 +2,7 @@
 
 /**
     !Disclaimer!
-    These contracts have been used to create a practise project,
+    These contracts have been used to create a practice project,
     and was created for the purpose to teach people
     how to create smart contracts on the blockchain.
     please review this code on your own before using any of
